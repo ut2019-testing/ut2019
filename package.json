@@ -1,0 +1,21 @@
+{
+	"name": "ut_test",
+	"version": "1.0.0",
+	"description": "Testing Cypress",
+	"main": "index.js",
+	"scripts": {
+		"test": "cypress run",
+		"cypress:open": "cypress open",
+		"cypress:run": "cypress run"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://ut2019-testing@github.com/ut2019-testing/ut2019.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"homepage": "https://github.com/ut2019-testing/ut2019#readme",
+	"devDependencies": {
+		"cypress": "^3.4.1"
+	}
+}
