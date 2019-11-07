@@ -3,6 +3,7 @@
 # Setup
 
 Install NodeJS and npm https://treehouse.github.io/installation-guides/windows/node-windows.html
+
 Install Git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ```shell
