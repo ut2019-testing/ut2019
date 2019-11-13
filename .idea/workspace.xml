@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e01bbeb0-50ca-48c0-aa90-db1286a18126" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cypress/integration/ut2019.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/ut2019.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/test2.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573678428154</updated>
-      <workItem from="1573678430681" duration="638000" />
+      <workItem from="1573678430681" duration="1629000" />
     </task>
     <servers />
   </component>
